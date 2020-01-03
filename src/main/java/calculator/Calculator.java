@@ -55,4 +55,7 @@ public class Calculator {
 		}
 		return cubeResult;
 	}
+	/**
+	 * labfinal
+	 */
 }

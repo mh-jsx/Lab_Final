@@ -56,7 +56,7 @@ public class TestCalculator {
 	@Test (expected = IllegalArgumentException.class)
 	public void cubeTest2() {
 		calculatorClassObj = new Calculator();
-		int actual = calculatorClassObj.square(-10);
+		calculatorClassObj.square(-10);
 	}
 	
 	@Test
