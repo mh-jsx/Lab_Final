@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"calculator","c":"Calculator","l":"Calculator()","url":"%3Cinit%3E()"},{"p":"calculator","c":"Calculator","l":"cube(long)"},{"p":"calculator","c":"Calculator","l":"findMax(int, int, int)","url":"findMax(int,int,int)"},{"p":"calculator","c":"Calculator","l":"square(int)"}]
